@@ -1,5 +1,6 @@
 ## Hello 👋
 ### About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <h1 align="center">
 	<a href=["https://sunguoqi.com/"](https://baike.baidu.com/item/%E8%BE%BE%E6%8B%89%E6%96%AF%E7%8B%AC%E8%A1%8C%E4%BE%A0%E9%98%9F/22316155?fr=aladdin)>
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);独行侠总冠军!&center=true&size=27">
