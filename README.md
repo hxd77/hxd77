@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello 👋
+About Me
+你好，我是hxd，目前是SDU网安学院大三在读的一名本科生。
+热爱🏀和🏸。
+我比较喜欢的领域是CTF竞赛和密码学相关以及安全多方计算(MPC)。
 <div align="center"> <img src="https://profile-counter.glitch.me/hxd77/count.svg" /> </div>
 Here are some ideas to get you started:
 <div align="center">
