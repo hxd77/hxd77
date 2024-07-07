@@ -18,13 +18,13 @@ Here are some ideas to get you started:
   <!-- visitor statistics logo 访问量统计徽标 -->
   <img src="https://komarev.com/ghpvc/?username=QInzhengk&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
-- 🔭 I’m currently working on Shandong University School of Cyberspace Security
++ 🔭 I’m currently working on Shandong University School of Cyberspace Security
 
-- 🌱 I’m currently learning Vulnerability penetration mining
++ 🌱 I’m currently learning Vulnerability penetration mining
 
-- 👯 I’m looking to collaborate on ...
++ 👯 I’m looking to collaborate on ...
 
-- 🤔 I’m looking for help with ...
++ 🤔 I’m looking for help with ...
 
 - 💬 Ask me about ...
 
