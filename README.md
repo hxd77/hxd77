@@ -34,5 +34,73 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 2059496322@qq.com
 
 - 😄 Pronouns: shy and humorous
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的GitHub.io页面</title>
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
 
+        .bg {
+            /* 背景图片设置 */
+            background-image: url('background.jpg'); /* 替换为你的背景图片 */
+            background-size: cover;
+            background-position: center;
+            height: 100%;
+            position: relative;
+        }
+
+        .content {
+            text-align: center;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+        }
+
+        .content h1 {
+            font-size: 2.5em;
+            margin-bottom: 0.5em;
+        }
+
+        .content p {
+            font-size: 1.2em;
+        }
+
+        .button {
+            display: inline-block;
+            margin: 20px 10px;
+            padding: 10px 20px;
+            border-radius: 5px;
+            background-color: #007BFF;
+            color: white;
+            text-decoration: none;
+            transition: background-color 0.3s;
+        }
+
+        .button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+<div class="bg">
+    <div class="content">
+        <h1>欢迎来到我的GitHub.io页面</h1>
+        <p>这里是一些介绍我自己的文本。</p>
+        <a href="https://github.com/yourusername" class="button">查看我的GitHub</a>
+        <a href="https://yourwebsite.com" class="button">访问我的网站</a>
+    </div>
+</div>
+
+</body>
+</html>
 -->
