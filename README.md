@@ -1,6 +1,7 @@
 ## Hello 👋
 ### About Me
-![Metrics](https://metrics.lecoq.io/hxd77?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+
 
 <h1 align="center">
 	<a href=["https://sunguoqi.com/"](https://baike.baidu.com/item/%E8%BE%BE%E6%8B%89%E6%96%AF%E7%8B%AC%E8%A1%8C%E4%BE%A0%E9%98%9F/22316155?fr=aladdin)>
