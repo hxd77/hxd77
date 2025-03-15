@@ -8,7 +8,7 @@
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);独行侠总冠军!&center=true&size=27">
 	</a>
 </h1>
-你好，我是hxd，目前是SDU网安学院大三在读的一名本科生。
+你好，我是hxd，目前是SDU网安学院大四在读的一名本科生。
 热爱🏀和🏸。
 我比较喜欢的领域是CTF竞赛和密码学相关以及安全多方计算(MPC)。
 <div align="center"> <img src="https://profile-counter.glitch.me/hxd77/count.svg" /> </div>
