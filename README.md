@@ -69,15 +69,16 @@
 
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : {"C++", "Python"},
-    "OtherLanguages" : { "HTML", "CSS", "Latex", "Json", "Markdown" },
+    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
     "Database" : { "Firebase", "Sqlite" },
-    "Editors" : { "Vscode", "Pycharm", "Sublime", "Neovim" },
-    "Platforms" : { "Windows", "GNU/Linux", "Mac" },
+    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
+    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
     "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
   };
 }
 ```
+
 
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp;  我目前正在学习**密码学 & 软件与系统安全**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
