@@ -6,8 +6,6 @@
 </h1> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
-<p><strong> <summary>  忙于写代码 & 享受音乐的节奏 :   </summary> </strong></p>
-
 
 <hr></hr>
   Hi, I'm hxd, a University Student & Peacekeepers Elite (PEL) professional players & Mom's good son from China
@@ -32,6 +30,16 @@
 
 <hr></hr>
 
+<details>
+<p><strong> <summary>  忙于写代码 & 享受音乐节奏 :   </summary> </strong></p>
+
+<be>
+
+</details>
+
+</div>
+
+<hr></hr>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
@@ -79,16 +87,12 @@ class About extends Me {
 }
 ```
 
-
-
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp;  我目前正在学习**密码学 & 软件与系统安全**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; 我目前正在学习 **密码学 & 软件与系统安全以及网络安全**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; 我喜欢探索 **CTF/Web**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; 可以询问我关于 **大学生活, 电影, or 其他所有**. <br>
-- <img src="D:\Typora\Typora\d" width="25" /> &nbsp; 可以在我的博客找到我: **[hxd的Blog](https://hxd77.github.ios)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;有趣的事实: 用头撞墙一小时能消耗 **150 卡路里**.<br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; 询问我任何关于 **SDU, 电影, or 任何事情**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; 可以通过我的个人主页找到我: **[hxd的个人主页](https://hxd77.github.io)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;有趣的事实: 拿头撞墙一个小时可以消耗 **150 卡路里**.<br>
 
-<div align="center" >
-<a  href="https://github.com/hxd77">
 
 
 
