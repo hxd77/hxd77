@@ -9,7 +9,7 @@
 
 <hr></hr>
   Hi, I'm hxd, a University Student & Peacekeepers Elite (PEL) professional players & Mom's good son from China
-  <br><br>
+<br>
   🔬 I hope I will have chance to study for my doctorate at Nanyang Technological University, Department of Computer Engineering
   <br>
   🎓 I ‘m currently studying for my master at Shandong University, School of Cyberspace Security (Master)
