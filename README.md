@@ -8,7 +8,7 @@
 
 
 <hr></hr>
-  Hi, I'm hxd, a University Student & Peacekeepers Elite (PEL) professional players & Mom's good son from China
+  Hi, I'm hxd, a University Student & Player & Mom's good son from China
 <br>
   🔬 I hope I will have chance to study for my doctorate at Nanyang Technological University, Department of Computer Engineering
   <br>
@@ -42,51 +42,33 @@
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-orange.svg?style=flat&logo=rust&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
-![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 
 ```dart
 // tools_I_use organized
 
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "ProgramingLanguages" : { "Rust", "C++", "Python", "C" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Latex", "Markdown" },
     "Database" : { "Firebase", "Sqlite" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
+    "Editors" : { "Vscode", "Pycharm", "Overleaf", "Vim" },
+    "Platforms" : { "Mac", "GNU/Linux", "Windows","GPU" },
     "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
   };
 }
 ```
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; 我目前正在学习 **密码学 & 软件与系统安全以及网络安全**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; 我目前正在学习 **零知识证明 & 软件与系统安全以及网络安全**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; 我喜欢探索 **CTF/Web**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; 询问我任何关于 **SDU, 电影, or 任何事情**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; 可以通过我的个人主页找到我: **[hxd的个人主页](https://hxd77.github.io)**<br>
@@ -125,20 +107,20 @@ class About extends Me {
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/hxd77/C_plusplus" title="C_plusplus"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=C_plusplus&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/hxd77/C" title="C"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=C&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/hxd77/hxd-Rust-from-zero-to-hero" title="Rust"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=hxd-Rust-from-zero-to-hero&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/hxd77/Python" title="Python"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=Python&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/hxd77/aha_algorithm" title="aha_algorithm"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=aha_algorithm&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/hxd77/GPU-Parallel-Playground" title="GPU"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=GPU-Parallel-Playground&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/hxd77/luoguday" title="luoguday"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=luoguday&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/hxd77/group124" title="group124"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=group124&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/hxd77/Cryptography-Practice" title="Cryptography-Practice"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=Cryptography-Practice&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/hxd77/MySpiderLab" title="Spider"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=MySpiderLab&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
