@@ -20,7 +20,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning how to build  Website with HTML & CSS
+  📚 I’m currently learning how to build  Website with ZKP && Rust
   <br>
   💬 Ask me anything about from <a href="https://github.com/hxd77/hxd77/issues" title="Issues">Here</a>
   <br>
