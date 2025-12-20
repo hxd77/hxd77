@@ -106,24 +106,44 @@ class About extends Me {
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/hxd77/C_plusplus" title="C_plusplus"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=C_plusplus&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/hxd77/hxd-Rust-from-zero-to-hero" title="Rust"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=hxd-Rust-from-zero-to-hero&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/hxd77/Python" title="Python"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=Python&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/hxd77/GPU-Parallel-Playground" title="GPU"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=GPU-Parallel-Playground&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-
-<br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/hxd77/Cryptography-Practice" title="Cryptography-Practice"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=Cryptography-Practice&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/hxd77/MySpiderLab" title="Spider"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=MySpiderLab&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
+<table align="center" border="0">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/hxd77/C_plusplus">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=C_plusplus&theme=react&border_color=61dafb&border_radius=10&description_lines_count=2" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/hxd77/hxd-Rust-from-zero-to-hero">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=hxd-Rust-from-zero-to-hero&theme=react&border_color=61dafb&border_radius=10&description_lines_count=2" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/hxd77/Python">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=Python&theme=react&border_color=61dafb&border_radius=10&description_lines_count=2" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/hxd77/GPU-Parallel-Playground">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=GPU-Parallel-Playground&theme=react&border_color=61dafb&border_radius=10&description_lines_count=2" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/hxd77/Cryptography-Practice">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=Cryptography-Practice&theme=react&border_color=61dafb&border_radius=10&description_lines_count=2" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/hxd77/MySpiderLab">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=MySpiderLab&theme=react&border_color=61dafb&border_radius=10&description_lines_count=2" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h4 align="center">
   <a href="https://github.com/hxd77?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
