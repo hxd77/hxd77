@@ -96,12 +96,16 @@
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hxd77&show_icons=true&theme=tokyonight&border_color=6366F1&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&cache_seconds=86400" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=hxd77&theme=tokyonight&border=6366F1&hide_border=true&background=0D1117&ring=6366F1&fire=EC4899&currStreakLabel=6366F1" />
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hxd77&show_icons=true&theme=tokyonight&border_color=6366F1&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&cache_seconds=86400" />
+  </a>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxd77&hide=c%23,powershell,Mathematica,Ruby,Objective-C&title_color=6366F1&text_color=c9d1d9&icon_color=6366F1&bg_color=0D1117&langs_count=8&layout=compact&border_color=6366F1&hide_border=true&size_weight=0.5&count_weight=0.5&cache_seconds=86400" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://img.shields.io/badge/📊_查看完整统计-View_Full_Stats-6366F1?style=for-the-badge" />
+  </a>
 </p>
 
 ---
@@ -111,38 +115,66 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <a href="https://github.com/hxd77/C_plusplus">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=C_plusplus&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
-      </a>
+      <h3 align="center">
+        <a href="https://github.com/hxd77/C_plusplus">📁 C_plusplus</a>
+      </h3>
+      <p align="center">🤩 C++ Learning by hxd (1.01³⁶⁵=37.784)</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat" />
+        <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
+      </p>
     </td>
     <td width="50%">
-      <a href="https://github.com/hxd77/hxd-Rust-from-zero-to-hero">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=hxd-Rust-from-zero-to-hero&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/hxd77/Python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=Python&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/hxd77/GPU-Parallel-Playground">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=GPU-Parallel-Playground&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
-      </a>
+      <h3 align="center">
+        <a href="https://github.com/hxd77/hxd-Rust-from-zero-to-hero">🦀 Rust 笔记</a>
+      </h3>
+      <p align="center">My Rust learning notes & projects — from beginner to advanced</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat" />
+        <img src="https://img.shields.io/badge/MIT-license-green?style=flat" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/hxd77/Cryptography-Practice">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=Cryptography-Practice&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
-      </a>
+      <h3 align="center">
+        <a href="https://github.com/hxd77/Python">🐍 Python</a>
+      </h3>
+      <p align="center">Python learning & practice projects</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
+      </p>
     </td>
     <td width="50%">
-      <a href="https://github.com/hxd77/Auto-check-in">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=Auto-check-in&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
-      </a>
+      <h3 align="center">
+        <a href="https://github.com/hxd77/GPU-Parallel-Playground">⚡ GPU 并行</a>
+      </h3>
+      <p align="center">CUDA thread, memory, atomic ops & shared memory labs</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white&style=flat" />
+        <img src="https://img.shields.io/badge/C-555555?logo=c&logoColor=white&style=flat" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">
+        <a href="https://github.com/hxd77/Cryptography-Practice">🔐 密码学</a>
+      </h3>
+      <p align="center">Cryptography practice & implementations</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Security-2C3E50?logo=bookstack&logoColor=white&style=flat" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">
+        <a href="https://github.com/hxd77/Auto-check-in">✅ 自动打卡</a>
+      </h3>
+      <p align="center">学生日常打卡系统 — Sign In CST</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat" />
+        <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
+      </p>
     </td>
   </tr>
 </table>
