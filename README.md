@@ -1,163 +1,176 @@
-<div align="center" width="50">
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+hxd....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
-
-<hr></hr>
-  Hi, I'm hxd, a University Student & Player & Mom's good son from China
-<br>
-  🔬 I hope I will have chance to study for my doctorate at Nanyang Technological University, Department of Computer Engineering
-  <br>
-  🎓 I ‘m currently studying for my master at Shandong University, School of Cyberspace Security (Master)
-  <br>
-  🎓 I graduated from Shandong University, School of Cyberspace Security (Undergraduate)
-  <br>
-  🎓 I graduated from Hainan Oversea Chinese Middle School
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build  Website with ZKP && Rust
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/hxd77/hxd77/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: hxddong77@163.com">hxddong77@163.com</a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14&height=200&section=header&text=hxd77&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=white" />
 </p>
 
-<hr></hr>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hello,+There!+%F0%9F%91%8B;This+is+hxd....;Nice+to+meet+you!" />
+  </a>
+</p>
 
-<details>
-<p><strong> <summary>  忙于写代码 & 享受音乐节奏 :   </summary> </strong></p>
+<p align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" />
+</p>
 
-<be>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hxd77&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
 
-</details>
+---
 
-</div>
-
-<hr></hr>
-
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Rust](https://img.shields.io/badge/Rust-orange.svg?style=flat&logo=rust&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![CUDA](https://img.shields.io/badge/CUDA-green?style=flat&logo=nvidia)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-
-```dart
-// tools_I_use organized
-
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Rust", "C++", "Python", "C" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Latex", "Markdown" },
-    "Database" : { "Firebase", "Sqlite" },
-    "Editors" : { "Vscode", "Pycharm", "Overleaf", "Vim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows","GPU" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
-  };
-}
-```
-
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; 我目前正在学习 **零知识证明 & 软件与系统安全以及网络安全**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; 我喜欢探索 **CTF/Web**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; 询问我任何关于 **SDU, 电影, or 任何事情**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; 可以通过我的个人主页找到我: **[hxd的个人主页](https://hxd77.github.io)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;有趣的事实: 拿头撞墙一个小时可以消耗 **150 卡路里**.<br>
-
-
-
-
-<h2 align="center">⚡ Stats ⚡</h2>
-
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=hxd77&theme=react&border=61dafb&hide_border=true" alt="hxd77" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=hxd77&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxd77&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hxd77&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
-
-
-<hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-
-<table align="center" border="0">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/hxd77/C_plusplus">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=C_plusplus&theme=react&border_color=61dafb&border_radius=10&description_lines_count=2" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/hxd77/hxd-Rust-from-zero-to-hero">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=hxd-Rust-from-zero-to-hero&theme=react&border_color=61dafb&border_radius=10&description_lines_count=2" />
-      </a>
-    </td>
-  </tr>
+<table>
   <tr>
     <td>
-      <a href="https://github.com/hxd77/Python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=Python&theme=react&border_color=61dafb&border_radius=10&description_lines_count=2" />
-      </a>
+      <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />
     </td>
     <td>
-      <a href="https://github.com/hxd77/GPU-Parallel-Playground">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=GPU-Parallel-Playground&theme=react&border_color=61dafb&border_radius=10&description_lines_count=2" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/hxd77/Cryptography-Practice">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=Cryptography-Practice&theme=react&border_color=61dafb&border_radius=10&description_lines_count=2" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/hxd77/MySpiderLab">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=MySpiderLab&theme=react&border_color=61dafb&border_radius=10&description_lines_count=2" />
-      </a>
+      Hi, I'm <b>hxd</b> — 山东大学 · 网络空间安全硕士 · CTF/Web 爱好者
     </td>
   </tr>
 </table>
 
-<h4 align="center">
-  <a href="https://github.com/hxd77?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+```
+  🎓 硕士在读 · 山东大学 · 网络空间安全学院
+  🎓 本科毕业 · 山东大学 · 网络空间安全学院  
+  🎓 高中毕业 · 海南华侨中学
+  🔬 计划申请 · 南洋理工大学 · 计算机工程博士
+```
 
-**Code Cycle**<br>
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+> 📚 正在学习：**零知识证明 + Rust** &nbsp;|&nbsp; 🏴 探索：**CTF / Web 安全** &nbsp;|&nbsp; 📫 hxddong77@163.com
 
+<br>
 
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+<p align="center">
+  <a href="https://hxd77.github.io"><img src="https://img.shields.io/badge/🏠_个人主页-hxd77.github.io-6366F1?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://github.com/hxd77/hxd77/issues"><img src="https://img.shields.io/badge/💬_随便问-Ask_Me_Anything-EC4899?style=for-the-badge" /></a>
+</p>
 
-</div>
+---
+
+## 🏆 Trophy Wall
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hxd77&theme=algolia&column=8&margin-w=8&no-frame=true&no-bg=false" />
+</p>
+
+---
+
+## 🚀 Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,py,rust,html,css,md,bash,linux,vscode,git,figma,ps,ai&theme=dark&perline=7" />
+</p>
+
+<details>
+  <summary><b>📋 按分类查看</b></summary>
+  <br>
+
+| 类别 | 技术 |
+|:--|:--|
+| 语言 | Rust, C++, Python, C |
+| 前端/排版 | HTML, CSS, Markdown, LaTeX |
+| 数据库 | Firebase, SQLite |
+| 编辑器 | VS Code, PyCharm, Vim, Overleaf |
+| 平台 | Linux, Windows, macOS, GPU/CUDA |
+| 工具 | Git, Figma, Photoshop, Lightroom |
+
+</details>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hxd77/hxd77/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hxd77/hxd77/output/snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hxd77/hxd77/output/snake.svg" />
+</picture>
+
+---
+
+## ⚡ GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hxd77&show_icons=true&theme=tokyonight&border_color=6366F1&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=hxd77&theme=tokyonight&border=6366F1&hide_border=true&background=0D1117&ring=6366F1&fire=EC4899&currStreakLabel=6366F1" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxd77&hide=c%23,powershell,Mathematica,Ruby,Objective-C&title_color=6366F1&text_color=c9d1d9&icon_color=6366F1&bg_color=0D1117&langs_count=8&layout=compact&border_color=6366F1&hide_border=true&size_weight=0.5&count_weight=0.5" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hxd77&theme=tokyo-night&bg_color=0D1117&color=6366F1&line=8B5CF6&point=EC4899&hide_border=true" />
+</p>
+
+---
+
+## 📌 Featured Repos
+
+<p align="center">
+  <a href="https://github.com/hxd77/C_plusplus">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=C_plusplus&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/hxd77/hxd-Rust-from-zero-to-hero">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=hxd-Rust-from-zero-to-hero&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/hxd77/Python">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=Python&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/hxd77/GPU-Parallel-Playground">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=GPU-Parallel-Playground&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/hxd77/Cryptography-Practice">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=Cryptography-Practice&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/hxd77/MySpiderLab">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=MySpiderLab&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/hxd77?tab=repositories">
+    <img src="https://img.shields.io/badge/🔎_Show_More_Repos-20232a?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 🧠 Code Cycle
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="8%" />&ensp;&ensp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="8%" />&ensp;&ensp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="8%" />
+</p>
+
+<br>
+
+<details>
+  <summary>📼 忙于写代码 & 享受音乐节奏</summary>
+  <br>
+  <p align="center">
+    <i>coding to the beat...</i> 🎵
+  </p>
+</details>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14&height=100&section=footer" />
+</p>
+
+<p align="center">
+  <sub>⚡ 拿头撞墙一个小时可以消耗 <b>150 卡路里</b></sub>
+</p>
