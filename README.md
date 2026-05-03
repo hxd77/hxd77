@@ -112,32 +112,44 @@
 
 ## 📌 Featured Repos
 
-<p align="center">
-  <a href="https://github.com/hxd77/C_plusplus">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=C_plusplus&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/hxd77/hxd-Rust-from-zero-to-hero">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=hxd-Rust-from-zero-to-hero&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/hxd77/Python">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=Python&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/hxd77/GPU-Parallel-Playground">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=GPU-Parallel-Playground&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/hxd77/Cryptography-Practice">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=Cryptography-Practice&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/hxd77/MySpiderLab">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=MySpiderLab&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/hxd77/C_plusplus">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=C_plusplus&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117&cache_seconds=3600" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/hxd77/hxd-Rust-from-zero-to-hero">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=hxd-Rust-from-zero-to-hero&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117&cache_seconds=3600" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/hxd77/Python">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=Python&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117&cache_seconds=3600" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/hxd77/GPU-Parallel-Playground">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=GPU-Parallel-Playground&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117&cache_seconds=3600" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/hxd77/Cryptography-Practice">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=Cryptography-Practice&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117&cache_seconds=3600" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/hxd77/MySpiderLab">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=MySpiderLab&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117&cache_seconds=3600" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/hxd77?tab=repositories">
