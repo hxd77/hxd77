@@ -96,16 +96,12 @@
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hxd77&show_icons=true&theme=tokyonight&border_color=6366F1&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hxd77&show_icons=true&theme=tokyonight&border_color=6366F1&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&cache_seconds=86400" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=hxd77&theme=tokyonight&border=6366F1&hide_border=true&background=0D1117&ring=6366F1&fire=EC4899&currStreakLabel=6366F1" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxd77&hide=c%23,powershell,Mathematica,Ruby,Objective-C&title_color=6366F1&text_color=c9d1d9&icon_color=6366F1&bg_color=0D1117&langs_count=8&layout=compact&border_color=6366F1&hide_border=true&size_weight=0.5&count_weight=0.5" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hxd77&theme=tokyo-night&bg_color=0D1117&color=6366F1&line=8B5CF6&point=EC4899&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxd77&hide=c%23,powershell,Mathematica,Ruby,Objective-C&title_color=6366F1&text_color=c9d1d9&icon_color=6366F1&bg_color=0D1117&langs_count=8&layout=compact&border_color=6366F1&hide_border=true&size_weight=0.5&count_weight=0.5&cache_seconds=86400" />
 </p>
 
 ---
@@ -116,36 +112,36 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/hxd77/C_plusplus">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=C_plusplus&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117&cache_seconds=3600" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=C_plusplus&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/hxd77/hxd-Rust-from-zero-to-hero">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=hxd-Rust-from-zero-to-hero&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117&cache_seconds=3600" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=hxd-Rust-from-zero-to-hero&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/hxd77/Python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=Python&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117&cache_seconds=3600" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=Python&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/hxd77/GPU-Parallel-Playground">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=GPU-Parallel-Playground&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117&cache_seconds=3600" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=GPU-Parallel-Playground&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/hxd77/Cryptography-Practice">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=Cryptography-Practice&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117&cache_seconds=3600" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=Cryptography-Practice&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/hxd77/MySpiderLab">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=MySpiderLab&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117&cache_seconds=3600" />
+      <a href="https://github.com/hxd77/Auto-check-in">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hxd77&repo=Auto-check-in&theme=tokyonight&border_color=6366F1&border_radius=10&hide_border=true&bg_color=0D1117&cache_seconds=86400" />
       </a>
     </td>
   </tr>
