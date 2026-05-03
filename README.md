@@ -157,15 +157,6 @@
   <tr>
     <td width="50%">
       <h3 align="center">
-        <a href="https://github.com/hxd77/Claude-Code-Feishu-Notify">🌟 Claude Code-Feishu消息提醒</a>
-      </h3>
-      <p align="center">Claude Code-Feishu消息提醒</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Security-2C3E50?logo=bookstack&logoColor=white&style=flat" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">
         <a href="https://github.com/hxd77/Auto-check-in">✅ 自动打卡</a>
       </h3>
       <p align="center">学生日常打卡系统 — Sign In CST</p>
@@ -174,8 +165,20 @@
         <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
       </p>
     </td>
+    <td width="50%">
+      <h3 align="center">
+        <a href="https://github.com/hxd77/Claude-Code-Feishu-Notify">🔔 Claude 飞书通知</a>
+      </h3>
+      <p align="center">Claude Code 接入飞书机器人的消息推送与通知工具</p>
+      <p align="center">
+        <!-- 如果该项目使用的是 Python 或 TypeScript，你可以修改下面这行 badge -->
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
+        <img src="https://img.shields.io/badge/Feishu-00D4B5?logo=lark&logoColor=white&style=flat" />
+      </p>
+    </td>
   </tr>
 </table>
+
 
 <p align="center">
   <a href="https://github.com/hxd77?tab=repositories">
