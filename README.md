@@ -97,14 +97,12 @@
 
 <p align="center">
   <img width="49%" src="https://streak-stats.demolab.com/?user=hxd77&theme=tokyonight&border=6366F1&hide_border=true&background=0D1117&ring=6366F1&fire=EC4899&currStreakLabel=6366F1" />
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hxd77&show_icons=true&theme=tokyonight&border_color=6366F1&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&cache_seconds=86400" />
-  </a>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hxd77&theme=tokyonight&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://img.shields.io/badge/📊_查看完整统计-View_Full_Stats-6366F1?style=for-the-badge" />
+  <a href="https://github.com/hxd77">
+    <img src="https://img.shields.io/badge/View_Full_Stats-%E2%86%92-6366F1?style=for-the-badge" />
   </a>
 </p>
 
