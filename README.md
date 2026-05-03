@@ -157,9 +157,9 @@
   <tr>
     <td width="50%">
       <h3 align="center">
-        <a href="https://github.com/hxd77/Cryptography-Practice">🔐 密码学</a>
+        <a href="https://github.com/hxd77/Claude-Code-Feishu-Notify">🌟 Claude Code-Feishu消息提醒</a>
       </h3>
-      <p align="center">Cryptography practice & implementations</p>
+      <p align="center">Claude Code-Feishu消息提醒</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Security-2C3E50?logo=bookstack&logoColor=white&style=flat" />
       </p>
