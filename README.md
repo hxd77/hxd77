@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" />
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="40%" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />
+      <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/Developer.gif" width="25" />
     </td>
     <td>
       Hi, I'm <b>hxd</b> — 山东大学 · 网络空间安全硕士 · CTF/Web 爱好者
